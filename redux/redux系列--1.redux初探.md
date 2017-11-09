@@ -9,6 +9,7 @@ redux的思想是将整个应用的state储存在一棵object tree中，并且�
 开发者工具：开发者可以实时跟踪在应用中正在发生的一切，从actions到状态的改变。
 社区与生态圈：存在很多支持Redux的社区，使它能够吸引更多的人来使用。
 
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -61,5 +62,5 @@ redux的思想是将整个应用的state储存在一棵object tree中，并且�
         })
     </script>
 </body>
-
 </html>
+```
