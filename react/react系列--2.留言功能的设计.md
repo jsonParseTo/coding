@@ -1,3 +1,4 @@
+```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
 class Comment extends React.Component {
@@ -72,3 +73,4 @@ ReactDOM.render(
     <Comment />,
     document.getElementById('root')
 )
+```
