@@ -8,7 +8,7 @@ var random = function ( start, end ) {
 }
 /*
  * return a random string
- * the length depend your argument
+ * the length depending on  your argument
  */
 var randomString = function ( num ) {
     let result = "",
