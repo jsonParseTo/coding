@@ -1,6 +1,6 @@
 /*
 * return a integer
-* include start, exclude end
+* include start, include end
 */ 
 var random = function ( start, end ) {
     var res = end - start + 1;
@@ -8,6 +8,7 @@ var random = function ( start, end ) {
 }
 /*
  * return a random string
+ * the length depend your argument
  */
 var randomString = function ( num ) {
     let result = "",
