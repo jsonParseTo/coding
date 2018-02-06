@@ -1,7 +1,7 @@
-学习笔记
-
 ### LICENSE ###
 
-> [This Link](https://opensource.org/licenses/MIT) MIT
+[MIT](https://opensource.org/licenses/MIT) 
 
-> Copyright (c) 2018-present, Jon Snow
+---
+
+Copyright (c) 2018-present, Jon Snow
