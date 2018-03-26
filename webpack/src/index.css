@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'font';
+    src: url('./font.woff') format('woff');
+}
+.main {
+    font-family: 'font';
+    font-size: 30px;
+    color: #f00;
+}
